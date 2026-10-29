@@ -33,6 +33,3 @@ Kök Neden Analizi: Geliştirme sürecinde karşılaşılan önemli mimari darbo
 
 📬 İletişim
 E-posta: ozkokmesut2005@gmail.com
-
-- ⚡ Fun fact: ...
--->
